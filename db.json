@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "titre": "Le Comte de Monte-Cristo",
+      "auteur": "Alexandre Dumas",
+      "genre": "Roman historique",
+      "date": "1845-08-28",
+      "couverture": "/images/couvertures/Monte_Cristo.webp",
+      "resume": "Un classique de la littérature française qui raconte l'histoire d'Edmond Dantès, injustement emprisonné, qui s'échappe et se venge méthodiquement de ceux qui l'ont trahi."
+    },
+    {
+      "id": "2",
+      "titre": "1984",
+      "auteur": "George Orwell",
+      "genre": "Dystopie",
+      "date": "1949-06-08",
+      "couverture": "https://m.media-amazon.com//images/I/71kxa1-0mfL._AC_UF1000,1000_QL80_.jpg",
+      "resume": "Une vision cauchemardesque d'un futur totalitaire où la liberté de pensée est supprimée et où le gouvernement surveille chaque aspect de la vie des citoyens."
+    },
+    {
+      "id": "3",
+      "titre": "Le Seigneur des Anneaux",
+      "auteur": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "date": "1954-07-29",
+      "resume": "Une épopée fantastique qui suit la quête d'un groupe pour détruire un anneau de pouvoir maléfique et sauver la Terre du Milieu des ténèbres.",
+      "couverture": "https://m.media-amazon.com//images/I/71ZLavBjpRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "4",
+      "titre": "Orgueil et Préjugés",
+      "auteur": "Jane Austen",
+      "genre": "Roman classique",
+      "date": "1813-01-28",
+      "resume": "Une histoire d'amour et de malentendus entre Elizabeth Bennet, une jeune femme intelligente et indépendante, et Mr. Darcy, un riche aristocrate.",
+      "couverture": "https://m.media-amazon.com//images/I/71Q1tPupKjL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "5",
+      "titre": "Le Petit Prince",
+      "auteur": "Antoine de Saint-Exupéry",
+      "genre": "Conte philosophique",
+      "date": "1943-04-06",
+      "resume": "Un conte poétique et philosophique qui suit les rencontres d'un jeune prince venu d'une autre planète avec un aviateur échoué dans le désert.",
+      "couverture": "/images/couvertures/Le_Petit_Prince.webp"
+    },
+    {
+      "id": "6",
+      "titre": "Harry Potter à l'école des sorciers",
+      "auteur": "J.K. Rowling",
+      "genre": "Fantasy",
+      "date": "1997-06-26",
+      "resume": "Le premier livre de la série Harry Potter qui suit les aventures d'un jeune sorcier découvrant son héritage magique et entrant à l'école de Poudlard.",
+      "couverture": "https://m.media-amazon.com//images/I/71-++hbbERL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "7",
+      "titre": "Le Vieil Homme et la Mer",
+      "auteur": "Ernest Hemingway",
+      "genre": "Roman",
+      "date": "1952-09-01",
+      "resume": "L'histoire d'un vieux pêcheur cubain et de sa lutte épique avec un énorme espadon dans les eaux du Gulf Stream.",
+      "couverture": "/images/couvertures/Le_Vieil_Homme_et_la_Mer.webp"
+    },
+    {
+      "id": "8",
+      "titre": "Crime et Châtiment",
+      "auteur": "Fiodor Dostoïevski",
+      "genre": "Roman psychologique",
+      "date": "1866-01-01",
+      "resume": "Un roman profond qui explore la psychologie d'un jeune homme qui commet un meurtre et doit faire face à la culpabilité qui en découle.",
+      "couverture": "/images/couvertures/Crime_et_Châtiment.webp"
+    },
+    {
+      "id": "9",
+      "titre": "L'Étranger",
+      "auteur": "Albert Camus",
+      "genre": "Philosophique",
+      "date": "1942-05-19",
+      "resume": "Un roman existentialiste qui suit Meursault, un homme indifférent qui commet un crime apparemment sans motif et fait face à l'absurdité de l'existence.",
+      "couverture": "/images/couvertures/L'Etranger.webp"
+    },
+    {
+      "id": "10",
+      "titre": "Cent ans de solitude",
+      "auteur": "Gabriel García Márquez",
+      "genre": "Réalisme magique",
+      "date": "1967-05-30",
+      "resume": "L'histoire de la famille Buendía sur plusieurs générations dans le village imaginaire de Macondo, mêlant réalisme et éléments magiques.",
+      "couverture": "https://m.media-amazon.com//images/I/81MI6+TpYkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "11",
+      "titre": "Les Misérables",
+      "auteur": "Victor Hugo",
+      "genre": "Roman historique",
+      "date": "1862-01-01",
+      "resume": "Une vaste fresque sociale qui suit plusieurs personnages dans la France du XIXe siècle, notamment l'ancien forçat Jean Valjean.",
+      "couverture": "/images/couvertures/Les_Misérables.webp"
+    },
+    {
+      "id": "12",
+      "titre": "Voyage au bout de la nuit",
+      "auteur": "Louis-Ferdinand Céline",
+      "genre": "Roman",
+      "date": "1932-01-01",
+      "resume": "Un roman sombre et cynique qui suit les errances de Ferdinand Bardamu à travers différents pays et situations.",
+      "couverture": "/images/couvertures/Voyage_au_bout_de_la_nuit.jpg"
+    }
+  ]
+}

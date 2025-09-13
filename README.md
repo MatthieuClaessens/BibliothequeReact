@@ -13,4 +13,4 @@ Ce projet est une bibliothèque de livres utilisant JSON-Server
 - HTML5 & CSS3
 - Bootstrap
 - React
-- Typescript
+- Javascript

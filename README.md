@@ -40,11 +40,6 @@
 ```bash
 .
 ├── data/                  # Données persistantes
-├── dist/                   # Build de production
-│   ├── assets/             # Assets compilés
-│   └── images/             # Images optimisées
-│       └── couvertures/     # Couvertures de livres
-├── node_modules/           # Dépendances
 ├── public/                 # Fichiers statiques
 │   └── images/             # Images publiques
 │       └── couvertures/    # Couvertures de livres
@@ -74,6 +69,21 @@ docker compose up --build
 ```
 
 <br>- Le frontend sera disponible sur : http://localhost:3000<br>- Le backend JSON Server sera disponible sur : http://localhost:3001/books</p>
+
+### 
+<h4 align="left">Option : utiliser l'image Docker exportée</h4>
+
+<p align="left">
+Si vous ne souhaitez pas reconstruire les conteneurs avec Docker Compose, vous pouvez utiliser l'image Docker pré-exportée fournie : <code>bibliotheque-react.tar</code>.
+</p>
+
+#### 
+
+<h4>Charger l'image</h4>
+
+```bash
+docker load -i bibliotheque-react.tar
+```
 
 ###
 

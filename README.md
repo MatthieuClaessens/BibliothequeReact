@@ -85,6 +85,16 @@ Si vous ne souhaitez pas reconstruire les conteneurs avec Docker Compose, vous p
 docker load -i bibliotheque-react.tar
 ```
 
+<h5>Démarrer le front-end</h5>
+
+```bash
+docker run -d -p 3000:80 --name frontend bibliothequereact-main-frontend:latest
+```
+<h5>Démarrer le back-end (JSON-Server)</h5>
+
+```bash
+docker run -d -p 3001:3001 --name api bibliothequereact-main-api:latest
+```
 ###
 
 <h3 align="left">Explications techniques</h3>
